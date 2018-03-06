@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Reflections in Black</title>
+            <title type="sub">Black Students Protest for Real</title>
+            <title type="sub">Digital Edition</title>
+            <author>
+              <forename>Benjamin</forename>
+               <surname>Jackson</surname>
+             </author>
+            <respStmt>
+              <resp>encoded by</resp>
+              <persName>
+                <forename>Benjamin</forename>
+                <surname>Jackson</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>Original TEI template provided by</resp>
+              <persName>
+                <forename>Raffaele</forename>
+                <surname>Viglianti</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>Extensive TEI Header example provided by</resp>
+                <persName>
+                  <forename>Jessica</forename>
+                  <surname>Lu</surname>
+                </persName>
+            </respStmt>
+            <respStmt>
+              <resp>TEI instruction provided through</resp>
+              <orgName>MITH</orgName>
+            </respStmt>
+            <respStmt>
+              <resp>Source material archived and provided by</resp>
+              <orgName>University Archives
+                <placeName>University of Maryland
+                  <settlement>College Park</settlement>
+                  <region>Maryland</region>
+                </placeName>
+              </orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+           <publisher>
+             <orgName>African American History, Culture, and Digital Humanities</orgName>
+           </publisher>
+           <pubPlace>
+             <settlement>College Park</settlement>
+             <region>Maryland</region>
+           </pubPlace>
+         <date when="2018-03-05">March 5, 2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+              <title>The Diamonback</title>
+              <author>
+                <forename>Andy</forename>
+                <surname>Chischom</surname>
+              </author>
+              <publisher><orgName>The Diamondback</orgName></publisher>
+                <pubPlace>
+                  <settlement>College Park</settlement>
+                  <region>Maryland</region>
+                </pubPlace>
+                <date when="1969-05-09"> 9, 1969</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+          <p>About 200 black brothers staged a
+protest rally in front of the home eco­
+nomics building Wednesday. Also pre­
+sent were about 100 white sympathizers.
+This rally, unlike past rallies had one
+important factor. There was a strong
+sincerity in the sisters and brothers
+to rid themselves of the problem of
+discrimination. Often there were black
+sisters standing with emotion filling
+their faces, telling it like it is. Brothers
+were speaking with hard feeling words.
+They often yelled out at the adminis­
+tration telling them to cut out the bull
+and get to the nitty gritty.</p>
+        </div>
+        <div>
+          <p><orgName type="University_of_Maryland_College_Park">University</orgName> administrator <persName><forename>J.</forename> <surname>Winston</surname></persName>
+standing on the home economics
+steps looked just like Dennis the Men­
+ance's father after finding out his son had
+done an Injustice to a neighbor. I feel
+that <persName><forename>Martin</forename></persName> really wanted to help but
+like his friend <persName><forename>Robert A</forename>, <surname>Beach</surname></persName>, he knew
+nothing could be done.</p>
+        </div>
+        <div>
+          <p><persName><surname>Beach</surname></persName> was called from among the
+spectators to the witness stand but upon 
+arriving, declined to answer any ques­
+tions for fear of incriminating himself.
+<persName type="Robert_A_Beach">He</persName> kept staring at that big <placename>administra­
+tion building</placename> in the foreground of the
+steps as if he was under some mystical
+power.</p>
+        </div>
+        <div>
+          <p>The black students constantly asked
+the two men what were they going to
+do about a program that proved to be
+based on discrimination. Neither could
+answer although <persName><surname>Martin</surname></persName> made more at­
+tempts than <persName><surname>Beach</surname></persName>. The black students
+finally gave up on <persName><surname>Beach</surname><persName> and continued
+to confront <persName><surname>Martin</surname></persName>.</p>
+        </div>
+        <div>
+          <p>It must be understood here and now
+that the black students want answers
+to these demands. It is clear that <persName><surname>Martin</surname></persName>
+and <persName><surname>Beach</surname><persName> cannot supply them. When
+the blacks asked where <persName><surname>Elkins</surname><persName> was and
+demanded that he come out to the rally,
+<persName><surname>Martin</surname></persName> stood confused and <persName><surname>Beach</surname><persName> looked
+stupid.</p>
+        </div>
+        <div>
+          <p>Our <persName type="Bob_McLeod">president</persName> must face reality on this
+campus. As one white student put it,
+•<quote>this campus is like a powder keg and 
+about to go off."</quote> Issues such as these
+must be met head on. They ca#t be
+handled by a pacifier of the <persName type="Bob_McLeod">president</persName>.
+This just won’t work anymore.
+Black students have finally gotten
+wise to the tactics used by this univer­
+sity. We are not going to sit by and n
+watch ourselves be made to look like i
+fools while <orgName>the administration</orgName> sits%ack
+and laughs at us. This event is not just
+a happening on <placeName type="University_of_Maryland_College_Park">campus</placeName>. It is for real
+and these questions presented are going
+to be answered by someone who has
+authority.</p>
+          </div>
+          <div>
+            <p>Our white brothers showed <sic>thl</sic><corr>this</corr>^ad­
+ministration that this is not just a one
+way process. They threw just as many
+questions to the establishment as blacks
+did.</p>
+          </div>
+          <div>
+            <p>Black and white students know change
+must come, but the old roots just
+sprout. Progress Is not checked at the
+student level. <orgName>The administration</orgName> is the
+one holding progress up.</p>
+          </div>
+          <div>
+            <p>The old stlU have old ideas but the young have the new motor.
+<orgName>BSU</orgName> calls upon <persName><forename>Nero</forename> <surname>Elkins</surname></persName> to hear the
+cries of the students. He must no longer
+place the students in the arena. He must
+no longer let the students fight among
+themselves.</p>
+          </div>
+          <div>
+            <p>We ask him to come before us not
+semester but now.
+The members of <orgName>BSU</orgName> are now using
+true black power. <orgName>BSU</orgName> president <persName><forename>Bob</forename>
+<surname>McLeod</surname></persName> says <quote>“the white student can
+support this cause."</quote> First he must open
+his mind to the fact that blacks are going
+to deal with black problems.</p>
+          </div>
+          <div>
+            <p>The white support must come from
+white organizations. This is due to the
+fact that whites relate better to whites
+and can explain their positions on the
+racial situation much more clearly to
+their peers than can a black student.
+This is how black and white work
+together. I ask the white student not
+to get confused on this issue. All people
+are needed in a struggle such as this --
+even Toms and white liberals.</p>
+        </div> 
+      </body>
+    </text>
+  </TEI>
