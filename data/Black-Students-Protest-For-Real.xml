@@ -130,13 +130,28 @@
               </placeName>
             </org>
             <org>
+              <orgName xml:id="OSA">Office of Student Affairs, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              <placeName>
+                <settlement>College Park</settlement>
+                <region>Maryland (<abbr>MD</abbr>)</region>
+                <country>United States of America (<abbr>USA</abbr>)</country>
+              </placeName>
+            </org>
+            <org>
               <orgName ref="#UMDP">University of Maryland Protestors</orgName>
               <placeName>
                 <settlement>College Park</settlement>
                 <region>Maryland (<abbr>MD</abbr>)</region>
                 <country>United States of America (<abbr>USA</abbr>)</country>
               </placeName>
-              <note></note>
+              <note>The protestors in this article are referred to in a wide
+              array of terms. This orgnization tag is used to firstly represent
+              the labor and infrastructure created to support the bringing-together
+              of so many people. Secondly, this tag is used to try to more accurately
+              represent those presen, in particular the women of color wh are left out
+              when the writer uses male-gendered language to refer to the participants
+              of the protest. Wherever the author was referring specifically to the
+              participants of the protest, this tag is used.</note>
             </org>
             <org>
               <orgName xml:id="UMDADM">University Administration, </orgName><orgName ref="#UMD">University of Maryland, College Park</orgName>
@@ -159,7 +174,15 @@
                 <forename>J</forename>
                 <forename>Winston</forename>
                 <surname>Martin</surname>
-                <roleName type="Office">Vice President of Student Affairs, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+                <roleName type="Office">Vice President, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="RB">
+                <forename>Robert</forename>
+                <forename>A.</forename>
+                <surname>Beach</surname>
+                <roleName type="Office">Assistant, </roleName> <persName ref="#WE">William H. Elkins</persName>
               </persName>
             </person>
             <person>
@@ -170,7 +193,13 @@
                 <roleName type="Office">University President, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
               </persName>
             </person>
-
+            <person>
+              <persName xml:id="BM">
+                <forename>Bob</forename>
+                <surname>McLeod</surname>
+                <roleName type="Office">President</roleName> <orgName ref="#BSU">Black Student Union</orgName>
+              </persName>
+            </person>
           </listPerson>
         </particDesc>
       </profileDesc>
@@ -178,7 +207,7 @@
   <text>
     <body>
       <div>
-        <p>About 200 black brothers staged a<lb/>
+        <p>About <orgName ref="#UMDP">200 black brothers</orgName> staged a<lb/>
 protest rally in front of the home <choice><orig>eco-­nomics</orig><reg>economics</reg></choice><lb/>
 building Wednesday. Also <choice><orig>pre­-sent</orig><reg>present</reg></choice><lb/>
 were about 100 white sympathizers.<lb/></p>
@@ -197,17 +226,17 @@ telling them to cut out the bull<lb/>
 and get to the nitty gritty.<lb/></p>
       </div>
       <div>
-        <p>University administrator J. Winston<lb/>
+        <p>University administrator <persName ref="#JM">J. Winston</persName><lb/>
 standing on the home economics<lb/>
 steps looked just like Dennis the <choice><orig>Men­-
 ance's</orig><reg>Menace's</reg></choice> father after finding out his son had<lb/>
 done an injustice to a neighbor. I feel<lb/>
-that Martin really wanted to help but<lb/>
-like his friend Robert A, Beach, he knew<lb/>
+that <persName ref="#JM">Martin</persName> really wanted to help but<lb/>
+like his friend <persName ref="#RB">Robert A. Beach</persName>, he knew<lb/>
 nothing could be done.<lb/></p>
       </div>
       <div>
-        <p>Beach was called from among the<lb/>
+        <p><persName ref="#RB">Beach</persName> was called from among the<lb/>
 spectators to the witness stand but upon<lb/>
 arriving, declined to answer any <choice><orig>ques­-tions</orig><reg>questions</reg></choice><lb/>
 for fear of incriminating himself.<lb/>
@@ -217,40 +246,40 @@ steps as if he was under some mystical<lb/>
 power.</p>
       </div>
       <div>
-        <p>The black students constantly asked<lb/>
+        <p><orgName ref="UMDP">The black students</orgName> constantly asked<lb/>
 the two men what were they going to<lb/>
 do about a program that proved to be<lb/>
 based on discrimination. Neither could<lb/>
-answer although Martin made more at­<lb/>
-tempts than Beach. The black students<lb/>
-finally gave up on Beach and continued<lb/>
-to confront Martin.<lb/></p>
+answer although <persName ref="#JM">Martin</persName> made more at­<lb/>
+tempts than <persName ref="#RB">Beach</persName>. <orgName ref="UMDP">The black students</orgName><lb/>
+finally gave up on <persName ref="#RB">Beach</persName> and continued<lb/>
+to confront <persName ref="#JM">Martin</persName>.<lb/></p>
       </div>
       <div>
         <p>It must be understood here and now<lb/>
 that the black students want answers<lb/>
-to these demands. It is clear that Martin<lb/>
-and Beach cannot supply them. When<lb/>
-the blacks asked where Elkins was and<lb/>
+to these demands. It is clear that <persName ref="#JM">Martin</persName><lb/>
+and <persName ref="#RB">Beach</persName> cannot supply them. When<lb/>
+the blacks asked where <persName ref="#WE">Elkins</persName> was and<lb/>
 demanded that he come out to the rally,<lb/>
-Martin stood confused and Beach looked<lb/>
+<persName ref="#JM">Martin</persName> stood confused and <persName ref="#RB">Beach</persName> looked<lb/>
 stupid.<lb/></p>
       </div>
       <div>
-        <p>Our president must face reality on this<lb/>
+        <p>Our <persName ref="#WE">president</persName> must face reality on this<lb/>
 campus. As one white student put it,<lb/>
-"this campus is like a powder keg and<lb/>
-about to go off." Issues such as these<lb/>
+<q>"this campus is like a powder keg and<lb/>
+about to go off."</q> Issues such as these<lb/>
 must be met head on. They can't be<lb/>
-handled by a pacifier of the president.<lb/>
+handled by a pacifier of <persName ref="#WE">the president</persName>.<lb/>
 This just won’t work anymore.<lb/></p>
       </div>
       <div>
         <p>Black students have finally gotten<lb/>
-wise to the tactics used by this <choice><orig>univer­-sity.</orig><reg>university</reg></choice><lb/>
+wise to the tactics used by this <orgName ref="#UMD"><choice><orig>univer­-sity.</orig><reg>university</reg></choice></orgName><lb/>
 We are not going to sit by and<lb/>
 watch ourselves be made to look like<lb/>
-fools while the administration sits back<lb/>
+fools while <orgName ref="#UMDADM">the administration</orgName> sits back<lb/>
 and laughs at us. This event is not just<lb/>
 a happening on campus. It is for real<lb/>
 and these questions presented are going<lb/>
@@ -258,17 +287,17 @@ to be answered by someone who has<lb/>
 authority.</p>
       </div>
       <div>
-        <p>Our white brothers showed this <choice><orig>ad-­ministration</orig><reg>administration</reg></choice><lb/>
+        <p>Our white brothers showed this <orgName ref="#UMDADM"><choice><orig>ad-­ministration</orig><reg>administration</reg></choice></orgName><lb/>
 that this is not just a one<lb/>
 way process. They threw just as many<lb/>
-questions to the establishment as blacks<lb/>
+questions to <orgName ref="#UMDADM">the establishment</orgName> as blacks<lb/>
 did.<lb/></p>
       </div>
       <div>
         <p>Black and white students know change<lb/>
 must come, but the old roots just<lb/>
 sprout. Progress is not checked at the<lb/>
-student level. The administration is the<lb/>
+student level. <orgName ref="#UMDADM">The administration</orgName> is the<lb/>
 one holding progress up.<lb/></p>
       </div>
       <div>
@@ -276,7 +305,7 @@ one holding progress up.<lb/></p>
 young have the new motor.<lb/></p>
       </div>
       <div>
-        <p>BSU calls upon Nero Elkins to hear the<lb/>
+        <p><orgName ref="#BSU">BSU</orgName> calls upon <persName ref="#WE">Nero Elkins</persName> to hear the<lb/>
 cries of the students. He must no longer<lb/>
 place the students in the arena. He must<lb/>
 no longer let the students fight among<lb/>
@@ -287,9 +316,9 @@ themselves.<lb/></p>
 semester but now.<lb/></p>
       </div>
       <div>
-        <p>The members of BSU are now using<lb/>
-true black power. BSU president Bob<lb/>
-McLeod says <q>“the white student can<lb/>
+        <p>The members of <orgName ref="#BSU">BSU</orgName> are now using<lb/>
+true black power. <orgName ref="#BSU">BSU</orgName> president <persName ref="#BM">Bob<lb/>
+McLeod</persName> says <q>“the white student can<lb/>
 support this cause."</q> First he must open<lb/>
 his mind to the fact that blacks are going<lb/>
 to deal with black problems.<lb/></p>

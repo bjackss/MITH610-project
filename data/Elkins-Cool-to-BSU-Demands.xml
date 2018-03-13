@@ -141,6 +141,22 @@
               </placeName>
             </org>
             <org>
+              <orgName xml:id="OSA">Office of Student Affairs, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              <placeName>
+                <settlement>College Park</settlement>
+                <region>Maryland (<abbr>MD</abbr>)</region>
+                <country>United States of America (<abbr>USA</abbr>)</country>
+              </placeName>
+            </org>
+            <org>
+              <orgName xml:id="OAA">Office of Administrative Affairs, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              <placeName>
+                <settlement>College Park</settlement>
+                <region>Maryland (<abbr>MD</abbr>)</region>
+                <country>United States of America (<abbr>USA</abbr>)</country>
+              </placeName>
+            </org>
+            <org>
               <orgName xml:id="SGA">Student Government Association, </orgName><orgName ref="#UMD">University of Maryland, College Park</orgName>
                 <placeName>
                   <settlement>College Park</settlement>
@@ -198,7 +214,7 @@
                 <forename>Walter</forename>
                 <forename>Bernhard</forename>
                 <surname>Waetjen</surname>
-                <roleName type="Office">Vice President of Administrative Affairs, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+                <roleName type="Office">Vice President, </roleName> <orgName ref="#OAA">Office of Administrative Affairs</orgName>
               </persName>
             </person>
             <person>
@@ -214,7 +230,7 @@
                 <forename>J</forename>
                 <forename>Winston</forename>
                 <surname>Martin</surname>
-                <roleName type="Office">Vice President of Student Affairs, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+                <roleName type="Office">Vice President, </roleName> <orgName ref="#OSA">Office of Student Affairs</orgName>
               </persName>
             </person>
             <person>
