@@ -84,7 +84,7 @@
             </bibl>
             <bibl>
               <interpGrp resp="#BJJ" type="idea">
-              <desc>Ideational analysis of protest</desc>
+              <desc>Ideational analysis of protest and organizing</desc>
                 <interp xml:id="ISS">Issues</interp>
                 <interp xml:id="DEM">Demands</interp>
                 <interp xml:id="RE">Responses</interp>
@@ -263,8 +263,8 @@ one of three members who met with<lb/>
 meeting with <persName ref="#WE">Elkins</persName> tomorrow.<lb/></p>
       </div>
       <div>
-        <p><q><interp ana="#ISS">"If we don’t see any action on our<lb/>
-demands,</interp> we will <interp ana="#ACT">take our own <choice><orig>ac-­tion,”</orig><reg>action</reg></choice></interp></q><lb/>
+        <p><q><interp ana="#ISS">"If we don’t see any action on our</interp><lb/>
+<interp ana="#ISS">demands,</interp> we will <interp ana="#ACT">take our own</interp> <choice><orig>ac-­tion,”</orig><reg><interp ana="#ACT">action</interp></reg></choice></q><lb/>
 he added.<lb/></p>
       </div>
       <div>
@@ -282,9 +282,9 @@ to <persName ref="#WW">Walter B. Waetjen</persName>, vice <choice><orig>pres-­i
 for administrative affairs.<lb/></p>
       </div>
       <div>
-        <p><persName ref="#WE">Elkins</persName> began by saying <interp ana="#DEM">the demand<lb/>
-that he and other members of the<lb/>
-administration resign</interp> was <interp ana="#RE"><choice><orig>non-neg-­otiable,</orig><reg>non-negotioable</reg></choice></interp><lb/>
+        <p><persName ref="#WE">Elkins</persName> began by saying <interp ana="#DEM">the demand</interp><lb/>
+<interp ana="#DEM">that he and other members of the</interp><lb/>
+<interp ana="#DEM">administration resign</interp> was <choice><orig>non-neg-­otiable,</orig><reg><interp ana="#RE">non-negotioable</interp></reg></choice><lb/>
 according to <persName ref="#FH">Hall.</persName><lb/></p>
       </div>
       <div>
@@ -295,24 +295,24 @@ and if he resigned he <q>‘‘wouldn’t be<lb/>
 in a position to respond”</q> at all.<lb/></p>
       </div>
       <div>
-       <p>The president said <interp ana="#RE">he had no <choice><orig>auth-­ority</orig><reg>authority</reg></choice></interp><lb/>
-to <interp ana="#DEM">intervene in the <orgName ref="#MSC">Maryland<lb/>
-State College</orgName> Issue</interp> until the school<lb/>
+       <p>The president said <interp ana="#RE">he had no</interp> <choice><orig>auth-­ority</orig><reg><interp ana="#RE">authority</interp></reg></choice><lb/>
+to <interp ana="#DEM">intervene in the</interp> <orgName ref="#MSC">Maryland<lb/>
+State College</orgName> <interp ana="#DEM">Issue</interp> until the school<lb/>
 comes under <orgName ref="#UMD">University</orgName> jurisdiction<lb/>
 July 1.<lb/></p>
       </div>
       <div>
-        <p><orgName ref="#BSU">BSU</orgName> had demanded that <interp ana="#DEM">the <orgName ref="#MSCP">181<lb/>
-<interp ana="#ISS">students arrested at <orgName ref="#MSC">the college</orgName></interp></orgName> <choice><orig>rec­-ently</orig><reg>recently</reg></choice><lb/>
-not be penalized for their <choice><orig>buil-­ding</orig><reg>building</reg></choice><lb/>
-occupation</interp> action and that <choice><orig>col­-lege</orig><reg>college</reg></choice><lb/>
-<interp ana="#DEM">President <persName ref="#JW">John T. Williams</persName> be<lb/>
-fired.</interp><lb/></p>
+        <p><orgName ref="#BSU">BSU</orgName> had demanded that the <orgName ref="#MSCP">181<lb/>
+<interp ana="#ISS">students arrested</interp> at <orgName ref="#MSC">the college</orgName></orgName> <choice><orig>rec­-ently</orig><reg>recently</reg></choice><lb/>
+<interp ana="#DEM">not be penalized</interp> for their <choice><orig>buil-­ding</orig><reg>building</reg></choice><lb/>
+occupation action and that <choice><orig>col­-lege</orig><reg>college</reg></choice><lb/>
+President <persName ref="#JW">John T. Williams</persName> <interp ana="#DEM">be</interp><lb/>
+<interp ana="#DEM">fired.</interp><lb/></p>
       </div>
       <div>
-<p><persName ref="#WE">Elkins</persName> also said <interp ana="#RE">he had no <choice><orig>in-­fluence</orig><reg>influence</reg></choice><lb/>
+<p><persName ref="#WE">Elkins</persName> also said <interp ana="#RE">he had no</interp> <choice><orig>in-­fluence</orig><reg><interp ana="#RE">influence</interp></reg></choice><lb/>
 with the state to push for<lb/>
-pay raises</interp> for campus classified<lb/>
+<interp ana="#DEM">pay raises</interp> for campus classified<lb/>
 workers, as <orgName ref="#BSU">BSU</orgName> had demanded, <persName ref="FH">Hall</persName><lb/>
 said.<lb/></p>
       </div>
@@ -322,10 +322,10 @@ said.<lb/></p>
 for a change In the black studies <choice><orig>pro-­
 gram</orig><reg>program</reg></choice><lb/>
 to Include black community-<choice><orig>ori-­ented</orig><reg>oriented</reg></choice><lb/>
-projects by <interp ana="#RE">saying the <choice><orig>Uni­-versity</orig><reg><orgName ref="#UMD">University</orgName></reg></choice><lb/>
-<q>"does not have the <choice><orig>capabil-­ity</orig><reg>capability</reg></choice><lb/>
-or presently the faculty to <choice><orig>ex-­tend</orig><reg>extend</reg></choice><lb/>
-itself”</q> Into the community.</interp><lb/></p>
+projects by saying the <choice><orig>Uni­-versity</orig><reg><orgName ref="#UMD">University</orgName></reg></choice><lb/>
+<interp ana="#RE">"does not have the</interp> <choice><orig>capabil-­ity</orig><reg><interp ana="#RE">capability</interp></reg></choice><lb/>
+<interp ana="#RE">or presently the faculty to</interp> <choice><orig>ex-­tend</orig><reg><interp ana="#RE">extend</interp></reg></choice><lb/>
+<interp ana="#RE">itself” into the community.</interp><lb/></p>
       </div>
       <div>
         <p><persName ref="#FH">Hall</persName> noted that the <interp ana="#ISS">increase in funds<lb/>
