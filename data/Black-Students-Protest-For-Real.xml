@@ -130,14 +130,6 @@
               </placeName>
             </org>
             <org>
-              <orgName xml:id="SGA">Student Government Association, </orgName><orgName ref="#UMD">University of Maryland, College Park</orgName>
-                <placeName>
-                  <settlement>College Park</settlement>
-                  <region>Maryland (<abbr>MD</abbr>)</region>
-                  <country>United States of America (<abbr>USA</abbr>)</country>
-                </placeName>
-            </org>
-            <org>
               <orgName ref="#UMDP">University of Maryland Protestors</orgName>
               <placeName>
                 <settlement>College Park</settlement>
@@ -146,55 +138,22 @@
               </placeName>
               <note></note>
             </org>
+            <org>
+              <orgName xml:id="UMDADM">University Administration, </orgName><orgName ref="#UMD">University of Maryland, College Park</orgName>
+                <placeName>
+                  <settlement>College Park</settlement>
+                  <region>Maryland (<abbr>MD</abbr>)</region>
+                  <country>United States of America (<abbr>USA</abbr>)</country>
+                </placeName>
+                <note>This organization name is necessary for this article because
+                  "the administration" is frequently used to refer broadly to those
+                  within various levels of university administration who hold institutional
+                  power. The organization exists both as a general entity, and as the
+                  literal group of those in power working against the wellbeing of black
+                  students.</note>
+            </org>
           </listOrg>
           <listPerson>
-            <person>
-              <persName xml:id="WE">
-                <forename>William</forename>
-                <forename>H</forename>
-                <surname>Elkins</surname>
-                <roleName type="Office">University President, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
-              </persName>
-            </person>
-
-            <person>
-              <persName xml:id="FH">
-                <forename>Foster</forename>
-                <surname>Hall</surname>
-                <roleName type="Office">Treasurer, </roleName> <orgName ref="#BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
-              </persName>
-            </person>
-
-            <person>
-              <persName xml:id="TC">
-                <forename>Terrance</forename>
-                <surname>Cooper</surname>
-                <roleName type="Office">President, </roleName> <orgName ref="#BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
-              </persName>
-            </person>
-            <person>
-              <persName xml:id="CY">
-                <forename>Chriss</forename>
-                <surname>Young</surname>
-                <roleName>Member</roleName> <orgName ref="#BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
-              </persName>
-            </person>
-            <person>
-              <persName xml:id="WW">
-                <forename>Walter</forename>
-                <forename>Bernhard</forename>
-                <surname>Waetjen</surname>
-                <roleName type="Office">Vice President of Administrative Affairs, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
-              </persName>
-            </person>
-            <person>
-              <persName xml:id="JW">
-                <forename>John</forename>
-                <forename>T</forename>
-                <surname>Williams</surname>
-                <roleName type="Office">President</roleName><orgName ref="#MSC">Maryland State College</orgName>
-              </persName>
-            </person>
             <person>
               <persName xml:id="JM">
                 <forename>J</forename>
@@ -204,12 +163,14 @@
               </persName>
             </person>
             <person>
-              <persName xml:id="SR">
-                <forename>Stu</forename>
-                <surname>Robinson</surname>
-                <roleName type="Office">President, </roleName> <orgName ref="#SGA">Student Government Association, </orgName><orgName ref="#UMD">University of Maryland, College Park</orgName>
+              <persName xml:id="WE">
+                <forename>William</forename>
+                <forename>H</forename>
+                <surname>Elkins</surname>
+                <roleName type="Office">University President, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
               </persName>
             </person>
+
           </listPerson>
         </particDesc>
       </profileDesc>
@@ -311,7 +272,7 @@ student level. The administration is the<lb/>
 one holding progress up.<lb/></p>
       </div>
       <div>
-        <p>The old stlU have old ideas but the
+        <p>The old still have old ideas but the
 young have the new motor.<lb/></p>
       </div>
       <div>
