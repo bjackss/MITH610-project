@@ -96,7 +96,8 @@
       </fileDesc>
       <encodingDesc>
         <editorialDecl>
-          <p>For readability linebreaks have not been maintained</p>
+          <p>Formatting has mostly been maintained; paragraph and line breaks have been maintained.
+          End-of-line hyphenation has been normalized.</p>
           <p>Where mispelt words were ostensibly due to OCR errors,
             they have been marked and suggested revisions have been added and tagged as choices.</p>
           <p>Any potential typographical errors in the original were reproduced in this work in
@@ -104,7 +105,7 @@
           </editorialDecl>
           <projectDesc>
             <p>This project is intended as a restorative practice aimed at highlighting
-            individuals and their labor in organizational work combatting institutional
+            labor in organizational work combatting institutional
             racism on campus at the University of Maryland</p>
           </projectDesc>
       </encodingDesc>
@@ -251,7 +252,7 @@
         <p><orgName ref="#BSU">Black Student Union</orgName> <choice><orig>representa­-tives</orig><reg>representatives</reg></choice><lb/>
 who met with University <choice><orig>Pres-­ident</orig><reg>President</reg></choice><lb/>
 <persName ref="#WE">Wilson H. Elkins</persName> Monday <choice><orig>con-­cerning</orig><reg>concerning</reg></choice><lb/>
-their 14 demands said <choice><orig>yes-­terday</orig><reg>yesterday</reg></choice><lb/>
+their <interp ana="#DEM">14 demands</interp> said <choice><orig>yes-­terday</orig><reg>yesterday</reg></choice><lb/>
 they were not satisfied with the<lb/>
 discussion.<lb/></p>
       </div>
@@ -262,8 +263,8 @@ one of three members who met with<lb/>
 meeting with <persName ref="#WE">Elkins</persName> tomorrow.<lb/></p>
       </div>
       <div>
-        <p><q>"If we don’t see any action on our<lb/>
-demands, we will take our own <choice><orig>ac-­tion,”</orig><reg>action</reg></choice></q><lb/>
+        <p><q><interp ana="#ISS">"If we don’t see any action on our<lb/>
+demands,</interp> we will <interp ana="#ACT">take our own <choice><orig>ac-­tion,”</orig><reg>action</reg></choice></interp></q><lb/>
 he added.<lb/></p>
       </div>
       <div>
@@ -281,37 +282,37 @@ to <persName ref="#WW">Walter B. Waetjen</persName>, vice <choice><orig>pres-­i
 for administrative affairs.<lb/></p>
       </div>
       <div>
-        <p><persName ref="#WE">Elkins</persName> began by saying the demand<lb/>
+        <p><persName ref="#WE">Elkins</persName> began by saying <interp ana="#DEM">the demand<lb/>
 that he and other members of the<lb/>
-administration resign was <choice><orig>non-neg-­otiable,</orig><reg>non-negotioable</reg></choice><lb/>
+administration resign</interp> was <interp ana="#RE"><choice><orig>non-neg-­otiable,</orig><reg>non-negotioable</reg></choice></interp><lb/>
 according to <persName ref="#FH">Hall.</persName><lb/></p>
       </div>
       <div>
-        <p>Some of the demands were be<lb/>­
-yond his authority, <persName ref="#WE">Elkins</persName> added <choice><orig>ac-­cording</orig><reg>according</reg></choice><lb/>
+        <p>Some of the demands were <choice><orig>be-yond</orig><reg>beyond</reg></choice><lb/>
+his authority, <persName ref="#WE">Elkins</persName> added <choice><orig>ac-­cording</orig><reg>according</reg></choice><lb/>
 to a University spokesman,<lb/>
 and if he resigned he <q>‘‘wouldn’t be<lb/>
 in a position to respond”</q> at all.<lb/></p>
       </div>
       <div>
-       <p>The president said he had no <choice><orig>auth-­ority</orig><reg>authority</reg></choice><lb/>
-to Intervene in the <orgName ref="#MSC">Maryland<lb/>
-State College</orgName> Issue until the school<lb/>
+       <p>The president said <interp ana="#RE">he had no <choice><orig>auth-­ority</orig><reg>authority</reg></choice></interp><lb/>
+to <interp ana="#DEM">intervene in the <orgName ref="#MSC">Maryland<lb/>
+State College</orgName> Issue</interp> until the school<lb/>
 comes under <orgName ref="#UMD">University</orgName> jurisdiction<lb/>
 July 1.<lb/></p>
       </div>
       <div>
-        <p><orgName ref="#BSU">BSU</orgName> had demanded that the <orgName ref="#MSCP">181<lb/>
-students arrested at <orgName ref="#MSC">the college</orgName></orgName> <choice><orig>rec­-ently</orig><reg>recently</reg></choice><lb/>
+        <p><orgName ref="#BSU">BSU</orgName> had demanded that <interp ana="#DEM">the <orgName ref="#MSCP">181<lb/>
+<interp ana="#ISS">students arrested at <orgName ref="#MSC">the college</orgName></interp></orgName> <choice><orig>rec­-ently</orig><reg>recently</reg></choice><lb/>
 not be penalized for their <choice><orig>buil-­ding</orig><reg>building</reg></choice><lb/>
-occupation action and that <choice><orig>col­-lege</orig><reg>college</reg></choice><lb/>
-President <persName ref="#JW">John T. Williams</persName> be<lb/>
-fired.<lb/></p>
+occupation</interp> action and that <choice><orig>col­-lege</orig><reg>college</reg></choice><lb/>
+<interp ana="#DEM">President <persName ref="#JW">John T. Williams</persName> be<lb/>
+fired.</interp><lb/></p>
       </div>
       <div>
-<p><persName ref="#WE">Elkins</persName> also said he had no <choice><orig>in-­fluence</orig><reg>influence</reg></choice><lb/>
+<p><persName ref="#WE">Elkins</persName> also said <interp ana="#RE">he had no <choice><orig>in-­fluence</orig><reg>influence</reg></choice><lb/>
 with the state to push for<lb/>
-pay raises for campus classified<lb/>
+pay raises</interp> for campus classified<lb/>
 workers, as <orgName ref="#BSU">BSU</orgName> had demanded, <persName ref="FH">Hall</persName><lb/>
 said.<lb/></p>
       </div>
@@ -321,64 +322,64 @@ said.<lb/></p>
 for a change In the black studies <choice><orig>pro-­
 gram</orig><reg>program</reg></choice><lb/>
 to Include black community-<choice><orig>ori-­ented</orig><reg>oriented</reg></choice><lb/>
-projects by saying the <choice><orig>Uni­-versity</orig><reg><orgName ref="#UMD">University</orgName></reg></choice><lb/>
+projects by <interp ana="#RE">saying the <choice><orig>Uni­-versity</orig><reg><orgName ref="#UMD">University</orgName></reg></choice><lb/>
 <q>"does not have the <choice><orig>capabil-­ity</orig><reg>capability</reg></choice><lb/>
 or presently the faculty to <choice><orig>ex-­tend</orig><reg>extend</reg></choice><lb/>
-itself”</q> Into the community.<lb/></p>
+itself”</q> Into the community.</interp><lb/></p>
       </div>
       <div>
-        <p><persName ref="#FH">Hall</persName> noted that the increase in funds<lb/>
+        <p><persName ref="#FH">Hall</persName> noted that the <interp ana="#ISS">increase in funds<lb/>
 for black studies, which <persName ref="#WE">Elkins</persName> said<lb/>
 would be proportional to the Increase<lb/>
 In the entire budget, was not accept<lb/>­
-able to <orgName ref="#BSU">BSU</orgName> members.<lb/></p>
+able to <orgName ref="#BSU">BSU</orgName> members.</interp><lb/></p>
       </div>
       <div>
-<p>To the demand that classes be <choice><orig>pro­-vided</orig><reg>provided</reg></choice><lb/>
-for residents of nearby <settlement><choice><orig>Lake­-land,</orig><reg>Lakeland</reg></choice></settlement><lb/>
+<p>To the demand that <interp ana="#DEM">classes be <choice><orig>pro­-vided</orig><reg>provided</reg></choice><lb/>
+for residents of nearby <settlement><choice><orig>Lake­-land,</orig><reg>Lakeland</reg></choice></settlement></interp><lb/>
 <persName ref="#WE">Elkins</persName> responded that classes<lb/>
 are both possible and probable.<lb/></p>
       </div>
       <div>
-<p>He said he would talk to faculty<lb/>
-about It and requested <orgName ref="#BSU">BSU</orgName> to draw<lb/>
+<p>He said <interp ana="#RE">he would talk to faculty<lb/>
+about it and requested <orgName ref="#BSU">BSU</orgName> to draw<lb/>
 up a plan for using the adult <choice><orig>edu­-cation</orig><reg>education</reg></choice><lb/>
-center for the classes.<lb/></p>
+center for the classes.</interp><lb/></p>
       </div>
       <div>
-        <p><persName ref="#FH">Hall</persName> said that plan and another<lb/>
-one for including the children of<lb/>
+        <p><interp ana="#ACT"><persName ref="#FH">Hall</persName> said that plan and another<lb/>
+one</interp> for including the children of<lb/>
 campus service workers in the <choice><orig>Uni-­versity</orig><reg><orgName ref="#UMD">University</orgName></reg></choice><lb/>
-kindergarten program would<lb/>
-be submitted today.<lb/></p>
+kindergarten program <interp ana="#ISS">would<lb/>
+be submitted today.</interp><lb/></p>
       </div>
       <div>
-<p><persName ref="#WE">Elkins</persName> had Informed the <orgName ref="#BSU">BSU</orgName> <choice><orig>rep-­resentatives</orig><reg>representatives</reg></choice><lb/>
+<p><persName ref="#WE">Elkins</persName> had informed the <orgName ref="#BSU">BSU</orgName> <choice><orig>rep-­resentatives</orig><reg>representatives</reg></choice><lb/>
 at the meeting that the<lb/>
 kindergarten was open to all campus<lb/>
 <sic>employes</sic>.<lb/></p>
       </div>
       <div>
-<p>The demand that recruiting of black<lb/>
-students and faculty be stepped up<lb/>
+<p>The demand that <interp ana="#DEM">recruiting of black<lb/>
+students and faculty be stepped up</interp><lb/>
 was answered with a statement by <choice><orig>El-­kins</orig><reg><persName ref="#WE">Elkins</persName></reg></choice><lb/>
-that the present program was<lb/>
-sufficient.<lb/></p>
+that <interp ana="#RE">the present program was<lb/>
+sufficient.</interp><lb/></p>
       </div>
       <div>
-<p><persName ref="#FH">Hall</persName> contended, however, that the<lb/>
+<p><persName ref="#FH">Hall</persName> contended, however, that <interp ana="#ISS">the<lb/>
 number of blacks has not increased<lb/>
-substantially, although he said he<lb/>
+substantially,</interp> although he said he<lb/>
 would not have the exact figures <choice><orig>un-­til</orig><reg>until</reg></choice><lb/>
 today.<lb/></p>
       </div>
       <div>
-<p>one of the demands, that amnesty<lb/>
+<p>one of the demands, that <interp ana="#DEM">amnesty<lb/>
 be granted to <persName type="unidentified">three black students</persName><lb/>
-who were arested after a fight In<lb/>
-<settlement>College Park</settlement> recently, had been<lb/>
-turned over to <persName ref="#JM">J. Winston Martin,</persName><lb/>
-vice president for student affairs,<lb/>
+who were arested after a fight in<lb/>
+<settlement>College Park</settlement> recently,</interp> had been<lb/>
+<interp ana="#ACT">turned over to <persName ref="#JM">J. Winston Martin,</persName><lb/>
+vice president for student affairs,</interp><lb/>
 for Investigation shortly after the<lb/>
 Incident happened.<lb/></p>
       </div>
@@ -388,14 +389,14 @@ does not have jurisdiction In such<lb/>
 off-campus cases.<lb/></p>
       </div>
       <div>
-<p><persName ref="#FH">Hall</persName> mentioned, however, that he<lb/>
+<p><persName ref="#FH">Hall</persName> mentioned, however, that <interp ana="#ISS">he<lb/>
 has not heard from <persName ref="#JM">Martin</persName> since<lb/>
-sometime before Easter vacation.<lb/></p>
+sometime before Easter vacation.</interp><lb/></p>
       </div>
       <div>
 <p>Regarding another demand, <persName ref="#WE">Elkins</persName><lb/>
-said it would be <q>“illegal”</q> to <choice><orig>reor­-ganize</orig><reg>reorganize</reg></choice><lb/>
-the University structure to<lb/>
+said it would be <interp ana="#RE"><q>“illegal”</q> to <choice><orig>reor­-ganize</orig><reg>reorganize</reg></choice><lb/>
+the University structure</interp> to<lb/>
 place control in the hands of students,
 faculty and chosen administrators.<lb/></p>
       </div>
@@ -409,13 +410,13 @@ Both the director and the <choice><orig>chancel-­lor</orig><reg>chancellor</reg
 have yet to be appointed.<lb/></p>
       </div>
       <div>
-<p>The demand for free legal counsel<lb/>
+<p>The demand for <interp ana="#DEM">free legal counsel<lb/>
 for black students “made to suffer<lb/>
-as a result of their political <choice><orig>activ-­ity”</orig><reg>activity"</reg></choice><lb/>
+as a result of their political <choice><orig>activ-­ity”</orig><reg>activity"</reg></choice></interp><lb/>
 was satisfied when <orgName ref="#SGA">Student <choice><orig>Gov-­ernment</orig><reg>Government</reg></choice></orgName><lb/>
-President <persName ref="#SR">Stu Robinson</persName> <choice><orig>of-fered</orig><reg>offered</reg></choice><lb/>
+<interp ana="#ACT">President <persName ref="#SR">Stu Robinson</persName> <choice><orig>of-fered</orig><reg>offered</reg></choice><lb/>
 the use of the <orgName ref="#SGA">SGA</orgName> legal aid<lb/>
-fund, which does not come from state<lb/>
+fund,</interp> which does not come from state<lb/>
 funds, <persName ref="#FH">Hall</persName> said.<lb/></p>
       </div>
     </body>
