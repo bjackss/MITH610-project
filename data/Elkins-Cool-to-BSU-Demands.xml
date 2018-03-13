@@ -52,7 +52,7 @@
            <edition n= "1">First edition</edition>
          </editionStmt>
          <extent>
-           <measure unit= "pages" quantity= "1">one partial page of original source material</measure>
+           <measure unit= "pages" quantity= "1">One partial page of original source material</measure>
           </extent>
          <publicationStmt>
            <publisher>
@@ -66,7 +66,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-              <title>The Diamonback</title>
+              <title>The Diamondback</title>
               <author>
                 <persName xml:id="MG"></persName>
                 <forename>Maryanne</forename>
@@ -84,13 +84,13 @@
             </bibl>
             <bibl>
               <interpGrp resp="#BJJ" type="idea">
-              <desc>analysis of protest</desc>
-                <interp>issues</interp>
-                <interp>demands</interp>
-                <interp>responses</interp>
-                <interp>actions</interp>
-                <interp>organizing</interp>
-                <interp>danger</interp>
+              <desc>Ideational analysis of protest</desc>
+                <interp xml:id="ISS">Issues</interp>
+                <interp xml:id="DEM">Demands</interp>
+                <interp xml:id="RE">Responses</interp>
+                <interp xml:id="ACT">Actions</interp>
+                <interp xml:id="ORG">Organizing</interp>
+                <interp xml:id="RES">Resistance</interp>
               </interpGrp>
             </bibl>
          </sourceDesc>
@@ -104,7 +104,9 @@
             an attempt to represent this element of the source material</p>
           </editorialDecl>
           <projectDesc>
-            <p>This project is intended as a</p>
+            <p>This project is intended as a restorative practice aimed at highlighting
+            individuals and their labor in organizational work combatting institutional
+            racism on campus at the University of Maryland</p>
           </projectDesc>
       </encodingDesc>
       <profileDesc>

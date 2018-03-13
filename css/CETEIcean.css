@@ -7,7 +7,6 @@ tei-choice tei-sic + tei-corr:before,
 tei-choice tei-corr + tei-sic:before,
 tei-choice tei-orig + tei-reg:before,
 tei-choice tei-reg + tei-orig:before {
-  content: " (";
 }
 tei-choice tei-abbr + tei-expan:after,
 tei-choice tei-expan + tei-abbr:after,
@@ -15,7 +14,6 @@ tei-choice tei-sic + tei-corr:after,
 tei-choice tei-corr + tei-sic:after,
 tei-choice tei-orig + tei-reg:after,
 tei-choice tei-reg + tei-orig:after {
-  content: ")";
 }
 /* A */
 tei-ab {

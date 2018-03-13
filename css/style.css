@@ -3,14 +3,18 @@
   margin: 0 0 1em 0;
 }
 
-tei-teiHeader {
+tei-interpretation {color: #4c4cff}
 
-}
+tei-orgName {font-weight: bold;}
 
-tei-sourceDesc {
+tei-respStmt {display: none;}
 
-}
+tei-sourceDesc {display: inline;}
 
-tei-persName {
-  font-style:italic;
-}
+tei-interpGrp {display: none;}
+
+tei-biblScope {display: none;}
+
+tei-publisher {display: none;}
+
+tei-orig {display: none;}
