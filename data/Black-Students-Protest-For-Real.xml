@@ -209,31 +209,31 @@
   <text>
     <body>
       <div>
-        <p>About <orgName ref="#UMDP">200 black brothers</orgName> staged a<lb/>
+        <p><interp ana="#ORG">About <orgName ref="#UMDP">200 black brothers</orgName> staged a<lb/>
 protest rally in front of the home <choice><orig>eco-­nomics</orig><reg>economics</reg></choice><lb/>
-building Wednesday. Also <choice><orig>pre­-sent</orig><reg>present</reg></choice><lb/>
+building Wednesday</interp>. Also <choice><orig>pre­-sent</orig><reg>present</reg></choice><lb/>
 were about 100 white sympathizers.<lb/></p>
       </div>
       <div>
         <p>This rally, unlike past rallies had one<lb/>
 important factor. There was a strong<lb/>
 sincerity in the sisters and brothers<lb/>
-to rid themselves of the problem of<lb/>
-discrimination. Often there were black<lb/>
+to rid themselves of <interp ana="#ISS">the problem of<lb/>
+discrimination.</interp> <interp ana="#ORG">Often there were black<lb/>
 sisters standing with emotion filling<lb/>
-their faces, telling it like it is. Brothers<lb/>
-were speaking with hard feeling words.<lb/>
+their faces, telling it like it is.</interp> <interp ana="#ORG">Brothers<lb/>
+were speaking with hard feeling words.</interp><lb/>
 They often yelled out at the <choice><orig>adminis-­tration</orig><reg>administration</reg></choice><lb/>
 telling them to cut out the bull<lb/>
 and get to the nitty gritty.<lb/></p>
       </div>
       <div>
-        <p>University administrator <persName ref="#JM">J. Winston</persName><lb/>
+        <p><interp ana="#ACT">University administrator <persName ref="#JM">J. Winston</persName><lb/>
 standing on the home economics<lb/>
 steps looked just like Dennis the <choice><orig>Men­-
 ance's</orig><reg>Menace's</reg></choice><lb/>
 father after finding out his son had<lb/>
-done an injustice to a neighbor. I feel<lb/>
+done an injustice to a neighbor.</interp> I feel<lb/>
 that <persName ref="#JM">Martin</persName> really wanted to help but<lb/>
 like his friend <persName ref="#RB">Robert A. Beach</persName>, he knew<lb/>
 nothing could be done.<lb/></p>
@@ -241,20 +241,20 @@ nothing could be done.<lb/></p>
       <div>
         <p><persName ref="#RB">Beach</persName> was called from among the<lb/>
 spectators to the witness stand but upon<lb/>
-arriving, declined to answer any <choice><orig>ques­-tions</orig><reg>questions</reg></choice><lb/>
-for fear of incriminating himself.<lb/>
-He kept staring at that big <choice><orig>administra­-tion</orig><reg>administration</reg></choice><lb/>
+arriving, <interp ana="#RE">declined to answer any <choice><orig>ques­-tions</orig><reg>questions</reg></choice><lb/>
+for fear of incriminating himself.</interp><lb/>
+<interp ana="#ACT">He kept staring at that big <choice><orig>administra­-tion</orig><reg>administration</reg></choice><lb/>
 building in the foreground of the<lb/>
-steps as if he was under some mystical<lb/>
+steps</interp> as if he was under some mystical<lb/>
 power.</p>
       </div>
       <div>
         <p><orgName ref="UMDP">The black students</orgName> constantly asked<lb/>
 the two men what were they going to<lb/>
-do about a program that proved to be<lb/>
-based on discrimination. Neither could<lb/>
+do about <interp ana="#ISS">a program that proved to be<lb/>
+based on discrimination.</interp> <interp ana="#Re">Neither could<lb/>
 answer although <persName ref="#JM">Martin</persName> made more at­<lb/>
-tempts than <persName ref="#RB">Beach</persName>. <orgName ref="UMDP">The black students</orgName><lb/>
+tempts than <persName ref="#RB">Beach</persName></interp>. <orgName ref="UMDP">The black students</orgName><lb/>
 finally gave up on <persName ref="#RB">Beach</persName> and continued<lb/>
 to confront <persName ref="#JM">Martin</persName>.<lb/></p>
       </div>
@@ -265,21 +265,21 @@ to these demands. It is clear that <persName ref="#JM">Martin</persName><lb/>
 and <persName ref="#RB">Beach</persName> cannot supply them. When<lb/>
 the blacks asked where <persName ref="#WE">Elkins</persName> was and<lb/>
 demanded that he come out to the rally,<lb/>
-<persName ref="#JM">Martin</persName> stood confused and <persName ref="#RB">Beach</persName> looked<lb/>
-stupid.<lb/></p>
+<interp ana="#RE"><persName ref="#JM">Martin</persName> stood confused and <persName ref="#RB">Beach</persName> looked<lb/>
+stupid.</interp><lb/></p>
       </div>
       <div>
         <p>Our <persName ref="#WE">president</persName> must face reality on this<lb/>
 campus. As one white student put it,<lb/>
-<q>"this campus is like a powder keg and<lb/>
-about to go off."</q> Issues such as these<lb/>
+<interp ana="#ISS"><q>"this campus is like a powder keg and<lb/>
+about to go off."</q></interp> Issues such as these<lb/>
 must be met head on. They can't be<lb/>
 handled by a pacifier of <persName ref="#WE">the president</persName>.<lb/>
 This just won’t work anymore.<lb/></p>
       </div>
       <div>
         <p>Black students have finally gotten<lb/>
-wise to the tactics used by this <orgName ref="#UMD"><choice><orig>univer­-sity.</orig><reg>university</reg></choice></orgName><lb/>
+wise to <interp ana="#ISS">the tactics used by this <orgName ref="#UMD"><choice><orig>univer­-sity.</orig><reg>university</reg></choice></orgName></interp><lb/>
 We are not going to sit by and<lb/>
 watch ourselves be made to look like<lb/>
 fools while <orgName ref="#UMDADM">the administration</orgName> sits back<lb/>
@@ -300,23 +300,23 @@ did.<lb/></p>
         <p>Black and white students know change<lb/>
 must come, but the old roots just<lb/>
 sprout. Progress is not checked at the<lb/>
-student level. <orgName ref="#UMDADM">The administration</orgName> is the<lb/>
-one holding progress up.<lb/></p>
+student level. <interp ana="#ACT"><orgName ref="#UMDADM">The administration</orgName> is the<lb/>
+one holding progress up.</interp><lb/></p>
       </div>
       <div>
         <p>The old still have old ideas but the
 young have the new motor.<lb/></p>
       </div>
       <div>
-        <p><orgName ref="#BSU">BSU</orgName> calls upon <persName ref="#WE">Nero Elkins</persName> to hear the<lb/>
-cries of the students. He must no longer<lb/>
+        <p><interp ana="#DEM"><orgName ref="#BSU">BSU</orgName> calls upon <persName ref="#WE">Nero Elkins</persName> to hear the<lb/>
+cries of the students.</interp> He must no longer<lb/>
 place the students in the arena. He must<lb/>
 no longer let the students fight among<lb/>
 themselves.<lb/></p>
       </div>
       <div>
-        <p>We ask him to come before us not next<lb/>
-semester but now.<lb/></p>
+        <p><interp ana="#DEM">We ask him to come before us not next<lb/>
+semester but now.</interp><lb/></p>
       </div>
       <div>
         <p>The members of <orgName ref="#BSU">BSU</orgName> are now using<lb/>
@@ -327,16 +327,16 @@ his mind to the fact that blacks are going<lb/>
 to deal with black problems.<lb/></p>
       </div>
       <div>
-        <p>The white support must come from<lb/>
-white organizations. This is due to the<lb/>
+        <p><interp ana="#DEM">The white support must come from<lb/>
+white organizations.</interp> This is due to the<lb/>
 fact that whites relate better to whites<lb/>
 and can explain their positions on the<lb/>
 racial situation much more clearly to<lb/>
 their peers than can a black student.<lb/>
 This is how black and white work<lb/>
 together. I ask the white student not<lb/>
-to get confused on this issue. All people<lb/>
-are needed in a struggle such as this --<lb/>
+to get confused on this issue. <interp ana="#ISS">All people<lb/>
+are needed in a struggle such as this</interp> --<lb/>
 even Toms and white liberals.<lb/></p>
       </div>
     </body>

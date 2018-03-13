@@ -3,7 +3,9 @@
   margin: 0 0 1em 0;
 }
 
-tei-interpretation {color: #4c4cff}
+tei-interp {color: #4c4cff}
+
+tei-interp {display: inline;}
 
 tei-orgName {font-weight: bold;}
 
