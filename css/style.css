@@ -4,7 +4,13 @@
 }
 
 tei-teiHeader {
-  display: none;
+
 }
 
-tei-supplied {font-style: italic;}
+tei-sourceDesc {
+
+}
+
+tei-persName {
+  font-style:italic;
+}

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Elkins Cool to BSU Demands</title>
+            <title type="sub">Representatives Unhappy</title>
+            <title type="sub">Digital Edition</title>
+            <author>
+              <persName xml:id="BJJ"></persName>
+              <forename>Benjamin</forename>
+               <surname>Jackson</surname>
+             </author>
+            <respStmt>
+              <resp>encoded by</resp>
+              <persName ref="#BJJ">
+                <forename>Benjamin</forename>
+                <surname>Jackson</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>Original TEI template provided by</resp>
+              <persName>
+                <forename>Raffaele</forename>
+                <surname>Viglianti</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>Extensive TEI Markup example provided by</resp>
+                <persName>
+                  <forename>Jessica</forename>
+                  <surname>Lu</surname>
+                </persName>
+            </respStmt>
+            <respStmt>
+              <resp>TEI instruction provided through</resp>
+              <orgName xml:id="MITH">Maryland Institute for Technology in the Humanities</orgName>
+            </respStmt>
+            <respStmt>
+              <resp>Source material archived and provided by</resp>
+              <orgName>University Archives
+                <placeName>University of Maryland
+                  <settlement>College Park</settlement>
+                  <region>Maryland</region>
+                </placeName>
+              </orgName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+           <edition n= "1">First edition</edition>
+         </editionStmt>
+         <extent>
+           <measure unit= "pages" quantity= "1">one partial page of original source material</measure>
+          </extent>
+         <publicationStmt>
+           <publisher>
+             <orgName xml:id="AADHUM">African American History, Culture, and Digital Humanities (AADHum)</orgName>
+           </publisher>
+           <pubPlace>
+             <settlement>College Park</settlement>
+             <region>Maryland</region>
+           </pubPlace>
+         <date when="2018-03-13">March 13, 2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+              <title>The Diamonback</title>
+              <author>
+                <persName xml:id="MG"></persName>
+                <forename>Maryanne</forename>
+                <surname>Gallagher</surname>
+              </author>
+              <publisher><orgName>The Diamondback</orgName></publisher>
+                <pubPlace>
+                  <settlement>College Park</settlement>
+                  <region>Maryland</region>
+                </pubPlace>
+                <date when="1970-04-15"> April 15, 1970</date>
+                <biblScope unit="volume">62</biblScope>
+                <biblScope unit="number">117</biblScope>
+                <biblScope unit="page">1</biblScope>
+            </bibl>
+            <bibl>
+              <interpGrp resp="#BJJ" type="idea">
+              <desc>analysis of protest</desc>
+                <interp>issues</interp>
+                <interp>demands</interp>
+                <interp>responses</interp>
+                <interp>actions</interp>
+                <interp>organizing</interp>
+                <interp>danger</interp>
+              </interpGrp>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+          <p>For readability linebreaks have not been maintained</p>
+          <p>Where mispelt words were ostensibly due to OCR errors,
+            they have been marked and suggested revisions have been added and tagged as choices.</p>
+          <p>Any potential typographical errors in the original were reproduced in this work in
+            an attempt to represent this element of the source material</p>
+          </editorialDecl>
+          <projectDesc>
+            <p>This project is intended as a</p>
+          </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="en-US">United States English</language>
+        </langUsage>
+        <particDesc>
+          <listOrg>
+            <org>
+              <orgName xml:id="UMD">University of Maryland, College Park</orgName>
+                <placeName>
+                  <settlement>College Park</settlement>
+                  <region>Maryland (<abbr>MD</abbr>)</region>
+                  <country>United States of America (<abbr>USA</abbr>)</country>
+                </placeName>
+            </org>
+            <org>
+              <orgName xml:id="MSC">Maryland State College</orgName>
+                <placeName>
+                  <settlement>Princess Anne</settlement>
+                  <region>Maryland (<abbr>MD</abbr>)</region>
+                  <country>United States of America (<abbr>USA</abbr>)</country>
+                </placeName>
+                <note>In the year following this article's publication Maryland State
+                was absorbed into the University of Maryland system as University of
+                Maryland, Eastern Shore</note>
+            </org>
+            <org>
+              <orgName xml:id="BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              <placeName>
+                <settlement>College Park</settlement>
+                <region>Maryland (<abbr>MD</abbr>)</region>
+                <country>United States of America (<abbr>USA</abbr>)</country>
+              </placeName>
+            </org>
+            <org>
+              <orgName xml:id="SGA">Student Government Association, </orgName><orgName ref="#UMD">University of Maryland, College Park</orgName>
+                <placeName>
+                  <settlement>College Park</settlement>
+                  <region>Maryland (<abbr>MD</abbr>)</region>
+                  <country>United States of America (<abbr>USA</abbr>)</country>
+                </placeName>
+            </org>
+            <org>
+              <orgName ref="#MSCP">Maryland State College Protestors</orgName>
+              <placeName>
+                <settlement>Princess Anne</settlement>
+                <region>Maryland (<abbr>MD</abbr>)</region>
+                <country>United States of America (<abbr>USA</abbr>)</country>
+              </placeName>
+              <note>This group is not described as a formal organized group, but rather
+                as 181 protestors. A great amount of labor is required to stage a sit-in
+                of this size. In this spirit they are referred to as an organization alongside
+                the more institutionally recognized organizations</note>
+            </org>
+          </listOrg>
+          <listPerson>
+            <person>
+              <persName xml:id="WE">
+                <forename>William</forename>
+                <forename>H</forename>
+                <surname>Elkins</surname>
+                <roleName type="Office">University President, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+
+            <person>
+              <persName xml:id="FH">
+                <forename>Foster</forename>
+                <surname>Hall</surname>
+                <roleName type="Office">Treasurer, </roleName> <orgName ref="#BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+
+            <person>
+              <persName xml:id="TC">
+                <forename>Terrance</forename>
+                <surname>Cooper</surname>
+                <roleName type="Office">President, </roleName> <orgName ref="#BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="CY">
+                <forename>Chriss</forename>
+                <surname>Young</surname>
+                <roleName>Member</roleName> <orgName ref="#BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="WW">
+                <forename>Walter</forename>
+                <forename>Bernhard</forename>
+                <surname>Waetjen</surname>
+                <roleName type="Office">Vice President of Administrative Affairs, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="JW">
+                <forename>John</forename>
+                <forename>T</forename>
+                <surname>Williams</surname>
+                <roleName type="Office">President</roleName><orgName ref="#MSC">Maryland State College</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="JM">
+                <forename>J</forename>
+                <forename>Winston</forename>
+                <surname>Martin</surname>
+                <roleName type="Office">Vice President of Student Affairs, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="SR">
+                <forename>Stu</forename>
+                <surname>Robinson</surname>
+                <roleName type="Office">President, </roleName> <orgName ref="#SGA">Student Government Association, </orgName><orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+          </listPerson>
+        </particDesc>
+      </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p><orgName ref="#BSU">Black Student Union</orgName> <choice><orig>representa­-tives</orig><reg>representatives</reg></choice><lb/>
+who met with University <choice><orig>Pres-­ident</orig><reg>President</reg></choice><lb/>
+<persName ref="#WE">Wilson H. Elkins</persName> Monday <choice><orig>con-­cerning</orig><reg>concerning</reg></choice><lb/>
+their 14 demands said <choice><orig>yes-­terday</orig><reg>yesterday</reg></choice><lb/>
+they were not satisfied with the<lb/>
+discussion.<lb/></p>
+      </div>
+      <div>
+        <p><persName ref="#FH">Foster Hall,</persName> <orgName ref="#BSU">BSU</orgName> treasurer and<lb/>
+one of three members who met with<lb/>
+<persName ref="#WE">Elkins,</persName> said they will seek another<lb/>
+meeting with <persName ref="#WE">Elkins</persName> tomorrow.<lb/></p>
+      </div>
+      <div>
+        <p><q>"If we don’t see any action on our<lb/>
+demands, we will take our own <choice><orig>ac-­tion,”</orig><reg>action</reg></choice></q><lb/>
+he added.<lb/></p>
+      </div>
+      <div>
+        <p>The other two representatives who
+met with <persName ref="#WE">Elkins</persName> were <orgName ref="#BSU">BSU</orgName> <choice><orig>Pres-­ident</orig><reg>President</reg></choice><lb/>
+<persName ref="#TC">Terance Cooper</persName> and <persName ref="#CY"><choice><orig>Chrlss</orig><reg>Chriss</reg></choice><lb/>
+Young.</persName><lb/></p>
+      </div>
+      <div>
+        <p>During the 45-minute meeting, all<lb/>
+but three of the demands were <choice><orig>dis-­cussed,</orig><reg>discussed</reg></choice><lb/>
+Hall said. The original list<lb/>
+of demands had been presented <choice><orig>Fri­-day</orig><reg>Friday</reg></choice><lb/>
+to <persName ref="#WW">Walter B. Waetjen</persName>, vice <choice><orig>pres-­ident</orig><reg>president</reg></choice><lb/>
+for administrative affairs.<lb/></p>
+      </div>
+      <div>
+        <p><persName ref="#WE">Elkins</persName> began by saying the demand<lb/>
+that he and other members of the<lb/>
+administration resign was <choice><orig>non-neg-­otiable,</orig><reg>non-negotioable</reg></choice><lb/>
+according to <persName ref="#FH">Hall.</persName><lb/></p>
+      </div>
+      <div>
+        <p>Some of the demands were be<lb/>­
+yond his authority, <persName ref="#WE">Elkins</persName> added <choice><orig>ac-­cording</orig><reg>according</reg></choice><lb/>
+to a University spokesman,<lb/>
+and if he resigned he <q>‘‘wouldn’t be<lb/>
+in a position to respond”</q> at all.<lb/></p>
+      </div>
+      <div>
+       <p>The president said he had no <choice><orig>auth-­ority</orig><reg>authority</reg></choice><lb/>
+to Intervene in the <orgName ref="#MSC">Maryland<lb/>
+State College</orgName> Issue until the school<lb/>
+comes under <orgName ref="#UMD">University</orgName> jurisdiction<lb/>
+July 1.<lb/></p>
+      </div>
+      <div>
+        <p><orgName ref="#BSU">BSU</orgName> had demanded that the <orgName ref="#MSCP">181<lb/>
+students arrested at <orgName ref="#MSC">the college</orgName></orgName> <choice><orig>rec­-ently</orig><reg>recently</reg></choice><lb/>
+not be penalized for their <choice><orig>buil-­ding</orig><reg>building</reg></choice><lb/>
+occupation action and that <choice><orig>col­-lege</orig><reg>college</reg></choice><lb/>
+President <persName ref="#JW">John T. Williams</persName> be<lb/>
+fired.<lb/></p>
+      </div>
+      <div>
+<p><persName ref="#WE">Elkins</persName> also said he had no <choice><orig>in-­fluence</orig><reg>influence</reg></choice><lb/>
+with the state to push for<lb/>
+pay raises for campus classified<lb/>
+workers, as <orgName ref="#BSU">BSU</orgName> had demanded, <persName ref="FH">Hall</persName><lb/>
+said.<lb/></p>
+      </div>
+      <div>
+        <p>
+<persName ref="#WE">The president</persName> answered the demand<lb/>
+for a change In the black studies <choice><orig>pro-­
+gram</orig><reg>program</reg></choice><lb/>
+to Include black community-<choice><orig>ori-­ented</orig><reg>oriented</reg></choice><lb/>
+projects by saying the <choice><orig>Uni­-versity</orig><reg><orgName ref="#UMD">University</orgName></reg></choice><lb/>
+<q>"does not have the <choice><orig>capabil-­ity</orig><reg>capability</reg></choice><lb/>
+or presently the faculty to <choice><orig>ex-­tend</orig><reg>extend</reg></choice><lb/>
+itself”</q> Into the community.<lb/></p>
+      </div>
+      <div>
+        <p><persName ref="#FH">Hall</persName> noted that the increase in funds<lb/>
+for black studies, which <persName ref="#WE">Elkins</persName> said<lb/>
+would be proportional to the Increase<lb/>
+In the entire budget, was not accept<lb/>­
+able to <orgName ref="#BSU">BSU</orgName> members.<lb/></p>
+      </div>
+      <div>
+<p>To the demand that classes be <choice><orig>pro­-vided</orig><reg>provided</reg></choice><lb/>
+for residents of nearby <settlement><choice><orig>Lake­-land,</orig><reg>Lakeland</reg></choice></settlement><lb/>
+<persName ref="#WE">Elkins</persName> responded that classes<lb/>
+are both possible and probable.<lb/></p>
+      </div>
+      <div>
+<p>He said he would talk to faculty<lb/>
+about It and requested <orgName ref="#BSU">BSU</orgName> to draw<lb/>
+up a plan for using the adult <choice><orig>edu­-cation</orig><reg>education</reg></choice><lb/>
+center for the classes.<lb/></p>
+      </div>
+      <div>
+        <p><persName ref="#FH">Hall</persName> said that plan and another<lb/>
+one for including the children of<lb/>
+campus service workers in the <choice><orig>Uni-­versity</orig><reg><orgName ref="#UMD">University</orgName></reg></choice><lb/>
+kindergarten program would<lb/>
+be submitted today.<lb/></p>
+      </div>
+      <div>
+<p><persName ref="#WE">Elkins</persName> had Informed the <orgName ref="#BSU">BSU</orgName> <choice><orig>rep-­resentatives</orig><reg>representatives</reg></choice><lb/>
+at the meeting that the<lb/>
+kindergarten was open to all campus<lb/>
+<sic>employes</sic>.<lb/></p>
+      </div>
+      <div>
+<p>The demand that recruiting of black<lb/>
+students and faculty be stepped up<lb/>
+was answered with a statement by <choice><orig>El-­kins</orig><reg><persName ref="#WE">Elkins</persName></reg></choice><lb/>
+that the present program was<lb/>
+sufficient.<lb/></p>
+      </div>
+      <div>
+<p><persName ref="#FH">Hall</persName> contended, however, that the<lb/>
+number of blacks has not increased<lb/>
+substantially, although he said he<lb/>
+would not have the exact figures <choice><orig>un-­til</orig><reg>until</reg></choice><lb/>
+today.<lb/></p>
+      </div>
+      <div>
+<p>one of the demands, that amnesty<lb/>
+be granted to <persName type="unidentified">three black students</persName><lb/>
+who were arested after a fight In<lb/>
+<settlement>College Park</settlement> recently, had been<lb/>
+turned over to <persName ref="#JM">J. Winston Martin,</persName><lb/>
+vice president for student affairs,<lb/>
+for Investigation shortly after the<lb/>
+Incident happened.<lb/></p>
+      </div>
+      <div>
+<p><persName ref="#WE">Elkins</persName> noted that the University<lb/>
+does not have jurisdiction In such<lb/>
+off-campus cases.<lb/></p>
+      </div>
+      <div>
+<p><persName ref="#FH">Hall</persName> mentioned, however, that he<lb/>
+has not heard from <persName ref="#JM">Martin</persName> since<lb/>
+sometime before Easter vacation.<lb/></p>
+      </div>
+      <div>
+<p>Regarding another demand, <persName ref="#WE">Elkins</persName><lb/>
+said it would be <q>“illegal”</q> to <choice><orig>reor­-ganize</orig><reg>reorganize</reg></choice><lb/>
+the University structure to<lb/>
+place control in the hands of students,
+faculty and chosen administrators.<lb/></p>
+      </div>
+      <div>
+<p>He said, however, that as soon as<lb/>
+a human relations director is <choice><orig>appoin-­ted,</orig><reg>original,</reg></choice><lb/>
+students could take their ideas<lb/>
+for change to him. The director will<lb/>
+be the vice chancellor, <persName ref="#WE">Elkins</persName> said.<lb/>
+Both the director and the <choice><orig>chancel-­lor</orig><reg>chancellor</reg></choice><lb/>
+have yet to be appointed.<lb/></p>
+      </div>
+      <div>
+<p>The demand for free legal counsel<lb/>
+for black students “made to suffer<lb/>
+as a result of their political <choice><orig>activ-­ity”</orig><reg>activity"</reg></choice><lb/>
+was satisfied when <orgName ref="#SGA">Student <choice><orig>Gov-­ernment</orig><reg>Government</reg></choice></orgName><lb/>
+President <persName ref="#SR">Stu Robinson</persName> <choice><orig>of-fered</orig><reg>offered</reg></choice><lb/>
+the use of the <orgName ref="#SGA">SGA</orgName> legal aid<lb/>
+fund, which does not come from state<lb/>
+funds, <persName ref="#FH">Hall</persName> said.<lb/></p>
+      </div>
+    </body>
+  </text>
+</TEI>
